@@ -1,0 +1,6 @@
+1. Remove all the config -          Done
+2. Implement throught db -          Done
+3. Explore celery tables -           
+4. Download sqlite -                Done
+5. Celery beat table -              Done
+6. Explore other way to implement routing queue
